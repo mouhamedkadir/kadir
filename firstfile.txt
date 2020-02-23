@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 asdfjhajlsdf
 dasjfblg
 srdfgsdugr
@@ -15,3 +16,5 @@ sdafhsdf
 afgjsdfkasf
 frgksfdhadsjf
 KADIR
+=======
+>>>>>>> parent of 5d8834f... secondcommit
